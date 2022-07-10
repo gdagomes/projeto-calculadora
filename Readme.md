@@ -21,4 +21,4 @@
 
 <h3>Teste o projeto:</h3>
 
-<a href="calculatorarithmeticbasic.netlify.app" target="_blank" rel="noreferrer" style="border: 1px solid black; padding: 10px; border-radius: 5px; background: #eeeeee; font-weight: 600;">Calculadora</a>
+<a href="https://calculatorarithmeticbasic.netlify.app" target="_blank" rel="noreferrer" style="border: 1px solid black; padding: 10px; border-radius: 5px; background: #eeeeee; font-weight: 600;">Calculadora</a>

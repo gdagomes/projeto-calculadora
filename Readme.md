@@ -18,3 +18,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
+
+<h3>Teste o projeto:</h3>
+
+<a href="calculatorarithmeticbasic.netlify.app" target="_blank" rel="noreferrer" style="border: 1px solid black; padding: 10px; border-radius: 5px; background: #eeeeee; font-weight: 600;">Calculadora</a>
